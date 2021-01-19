@@ -1,10 +1,7 @@
-PHP.docset/Contents/Resources
-PHP.docset/Contents/Info.plist
-PHP.docset.zip
-Thumbs.db
-desktop.ini
-.DS_Store
-.buildpath
-.project
-.settings
-.idea
+/.idea
+/*.docset
+!/PHP.docset/icon.png
+!/PHP.docset/icon@2x.png
+/extractedChm
+/PHP.tgz
+/php.chm

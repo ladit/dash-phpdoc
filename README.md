@@ -1,17 +1,14 @@
 # dash-phpdoc
 
-Generates a [Dash](http://kapeli.com/dash) docset for [PHP](http://php.net/).
-
-Support PHP multi-language documents (en/ja/ru/ro/es/tr/fr/de/zh/pt_BR).
+Generates a [PHP](http://php.net/) docset for [Dash](http://kapeli.com/dash), with multi-language support. 
 
 Modified from https://github.com/toyjack/dash-phpdoc-ja .
 
 ## requirement
 
+- php
 - hh.exe, MSYS (Windows)
 - chmlib (Mac, Linux)
-- curl
-- php
 
 ## usage
 
@@ -23,4 +20,4 @@ php generate.php
 
 ## License
 
-[MIT](/LICENSE.txt)
+[MIT](/LICENSE)
