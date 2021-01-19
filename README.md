@@ -12,7 +12,7 @@ Modified from https://github.com/toyjack/dash-phpdoc-ja .
 
 ## usage
 
-modify configs in `generate.php` to fit your needs.
+run command below to see usage.
 
 ```shell
 php generate.php
